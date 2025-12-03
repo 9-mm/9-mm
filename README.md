@@ -1,4 +1,5 @@
 ## exploit dev , malware dev ~~
+`nerdcore / hackwave enjoyer`
 
 ```
 d                       g                           4                         l
