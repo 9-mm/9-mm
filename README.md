@@ -1,16 +1,25 @@
-## Hi there 👋
+## exploit dev , malware dev ~~
 
-<!--
-**9-mm/9-mm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+```
 
-Here are some ideas to get you started:
+      .                                                                        .
+           .                   .           o       +        '*                  
+   +          +   '                  .     .           .                     o  
+    .   +    o  '                                                           +  *
+  .                        .                                 '  o               
+    *  |                   ' . .                                                
+     --o--         +                                         |                  
+       |           '  ' +                     .  *          -o-                 
+                                                     o +     |                  
+            +       o    +                            '                '     +  
+              ,\
+              \\\,_
+               \` ,\
+          __,.-" =__)              shouts to ascii bunny gang
+        ."        )                shouts to kawaiisec
+     ,_/   ,    \/\_               shouts to punkgang
+     \_|    )_-\ \_-`
+        `-----` `--`                    
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+```
+inquiries: <b>statik@router.sex</b>
