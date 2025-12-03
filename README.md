@@ -1,7 +1,7 @@
 ## exploit dev , malware dev ~~
 
 ```
-
+d                       g                           4                         l
       .                                                                        .
            .                   .           o       +        '*                  
    +          +   '                  .     .           .                     o  
