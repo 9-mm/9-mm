@@ -19,7 +19,7 @@ d                       g                           4                         l
           __,.-" =__)              shouts to ascii bunny gang
         ."        )                shouts to kawaiisec
      ,_/   ,    \/\_               shouts to punkgang
-     \_|    )_-\ \_-`
+     \_|    )_-\ \_-`              much luv 2: Sysko, Slayy, Stanzi, 108, Maiet/prolib, and Sad :~)
         `-----` `--`                    
 
 ```
